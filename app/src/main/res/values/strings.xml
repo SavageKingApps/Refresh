@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Refresh</string>
+
+    <string name = "toolbar_title">Sample Code</string>
+    <string name = "toolbar_subtitle">By Monroe Shed</string>
+
+    <string name = "switch_off">Refresh Off</string>
+    <string name = "switch_on">Refresh On</string>
+
+    <string name = "toast_text">Swipe down to refresh</string>
+    <string name = "textview_introduction">The sample code shows use of SwipeRefreshLayout, Switch, Toast, Toolbar, Gradients, TextViews, Layouts, and pure Android coding.</string>
+
+    <string name = "textview_instructions">NOTE: Swipe down on the screen to start refreshing. Use the on/off switch to stop refreshing.</string>
+</resources>
